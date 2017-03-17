@@ -41,6 +41,7 @@ function handleSearchString(term, res) {
 
     var translation = response.body.translationText;
 
+    //color will be blue if not set to inherit
     var html = '<a style="color:inherit">' + translation + '</a>';
     res.json({
       body: html,
