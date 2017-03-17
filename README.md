@@ -3,7 +3,7 @@
 This command is based on two other slash commands that can be found below:
 
 http://developer.mixmax.com/docs/overview-slash-commands#tutorial-building-mygiphy
-https://github.com/simonxca/mixmax-soundcloud-slash-command).
+https://github.com/simonxca/mixmax-soundcloud-slash-command
 
 ## Running locally
 
